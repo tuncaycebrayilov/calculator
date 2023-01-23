@@ -1,0 +1,100 @@
+.calculator-input{
+    font-size: 4rem;
+    text-align: right;
+    background-color: gray;
+    color: white;
+}
+
+
+.operation{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.operator{
+    font-size: 44px;
+    width: 140px;
+    height: 65px
+}
+
+.numbers{
+    display: flex;
+    justify-content: center;
+    margin-right: 139px;
+    margin-top: 20px;
+}
+#one{
+    font-size: 44px;
+    width: 140px;
+    height: 65px
+}
+#two{
+    font-size: 44px;
+    width: 140px;
+    height: 65px
+}
+#three{
+    font-size: 44px;
+    width: 140px;
+    height: 65px
+}
+#four{
+    font-size: 44px;
+    width: 140px;
+    height: 65px
+}
+#five{
+    font-size: 44px;
+    width: 140px;
+    height: 65px
+}
+#six{
+    font-size: 44px;
+    width: 140px;
+    height: 65px
+}
+#seven{
+    font-size: 44px;
+    width: 140px;
+    height: 65px
+}
+#eight{
+    font-size: 44px;
+    width: 140px;
+    height: 65px
+}
+#nine{
+    font-size: 44px;
+    width: 140px;
+    height: 65px
+}
+#zero{
+    font-size: 44px;
+    width: 140px;
+    height: 65px
+}
+.clear{
+    font-size: 44px;
+    width: 140px;
+    height: 65px
+}
+.Decimal{
+    font-size: 44px;
+    width: 140px;
+    height: 65px
+}
+
+#equal1{
+    width: 140px;
+    height: 322px;
+    font-size: 59px;
+    background-color: #3079ED;
+}
+#equal1:hover{
+    background-color: grey;
+}
+.equal2{
+    text-align: center;
+    margin-left: 424px;
+    margin-top: -320px;
+}
